@@ -44,5 +44,5 @@ function get_random_color() {
                     					//seleccionan uno de los 16 caracteres disponibles en el vector "letters".
                 }
                 return color1;	//Por ultimo la funcion retorna o envia de regreso el valor que quedo en la variable
-                				//color.
+                				//color calculada.
 }
